@@ -20,6 +20,28 @@ I had noticed that most functions needed a math library, so I will include that 
 I will represent my data using the float data type and use words like square meters and meters to create the correct unit for the values.
 
 # Algorithm Development
+import math
+Assign Variable Radius from User's Float Input
+
+Assign Variable Area that Calculates math.pi times radius to the power of 2.
+
+Assign Variable Circumference that Calculates 2 times math.pi times Radius.
+
+Assign Variable Square_Root that Calculates Square root of the Area.
+
+Assign Variable Rounded_Down_Area that rounds down Area to the value less than OR equal to it.
+
+Assign Variable Rounded_Up_Area that rounds down Area to the value greater than OR equal to it.
+
+Output The area of the circular garden is and Area in two decimal places with Square meters.
+
+Output The circumference of the circular garden is and Circumference in two decimal places with meters.
+
+Output The square root of the circular garden is and Square_Root in two decimal places.
+
+Output the Rounded Circumference is and Rounded_Down_Area.
+
+Output the Rounded Circumference is and Rounded_Up_Area.
 
 ### Using the math library to Calculate the Given Information to Create a Circular Garden.
 
