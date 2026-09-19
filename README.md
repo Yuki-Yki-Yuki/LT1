@@ -1,3 +1,26 @@
+## Computational Thinking
+# Problem Identification 
+
+The problem is to calculate the circular garden based on the radius.
+
+# Problem Decomposition 
+
+To make the program easier, I will divide it into the input, processing, and output stages.
+
+The input stage will contain the radius given by the user.
+
+The processing stage will contain every calculation that is needed which are area, circumference, square root, the rounded down values, and the rounded up values of the circular garden.
+
+# Pattern Recognition 
+
+I had noticed that most functions needed a math library, so I will include that in my program. 
+
+# Data Representation 
+
+I will represent my data using the float data type and use words like square meters and meters to create the correct unit for the values.
+
+# Algorithm Development
+
 ### Using the math library to Calculate the Given Information to Create a Circular Garden.
 
 ## This is a program that will calculate the area, circumference, square root of the area, rounded down area, and rounded up area of the circular garden or circle.
